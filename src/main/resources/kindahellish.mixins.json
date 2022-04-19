@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.tenth.kindahellish.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "HellishMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
